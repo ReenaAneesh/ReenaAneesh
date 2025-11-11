@@ -85,6 +85,68 @@ Manual LRs, failed API tracking, and no-show handling.
 
 ---
 
+### ADM Agro – Monthly Implementation & Support Update
+
+**Client:** ADM Agro Pvt. Ltd.  
+**Platform:** tEG (Transport Execution Gateway)  
+**Project Owner:** Caliper Business Solutions Pvt. Ltd. (SCLEN.AI)  
+**Objective:** Enhancing Next-Generation Global Supply Chain Network Efficiencies  
+**Update Period:** May 2025
+
+#### 📦 Project Overview
+This project documents the monthly rollout progress, support performance, and continuous improvement updates for ADM Agro's tEG implementation.
+
+**Key Focus Areas:**
+- Module-wise rollout completion
+- Stand alone contracting Module launched in 3 plants
+- Reduction in support TAT (Turnaround Time)
+- Addressing open points and billing pendency
+- Suggesting feature enhancements aligned with ADM's supply chain digital roadmap
+
+#### 🚀 Rollout Summary (Module-wise)
+
+| Module | Rollout Status | Remarks |
+|--------|----------------|----------|
+| Indenting | ✅ Completed | Active across key ADM plants |
+| Contracting | ✅ Live | Includes TAT & DPH logic |
+| Milestone Tracking | ⚙️ Ongoing | Integration with GPS providers |
+| Reconciliation | 🟢 UAT Completed | Pending finance sign-off |
+| Admin & Reports | 🔄 Enhancement Phase | UI and analytics upgrade in progress |
+
+#### ⏱️ tEG Support Performance – May 2025
+
+| Metric | Target | Actual | Status |
+|--------|--------|--------|--------|
+| Ticket Resolution TAT | < 24 hrs | 22 hrs | ✅ Improved |
+| CR (Change Request) Turnaround | < 72 hrs | 68 hrs | ✅ Within SLA |
+| Open Tickets | ≤ 5 | 3 | 🟢 On track |
+
+#### 🧾 Billing and Pendency Summary
+
+- **Billing Period:** April–May 2025
+- **Invoices Processed:** 94% cleared
+- **Pending Due to Client Review:** 6%
+- **Next Cycle:** 15 June 2025
+
+#### 📋 Open Points Tracker
+
+| # | Category | Description | Owner | Status |
+|---|----------|-------------|-------|--------|
+| 1 | Data Sync | GRN file delay from ERP | ADM IT | In Progress |
+| 2 | API | Vehicle Indent API – field validation | Caliper | Resolved |
+| 3 | Recon | Diesel Price Hike mismatch | ADM Finance | Under review |
+
+#### 💡 Recommendations & Feature Suggestions
+
+- Automated SCN (Supply Chain Network) configuration based on volume forecast
+- Enhanced live dashboard for plant-level visibility
+- Introduce auto-LSP assignment logic via configurable business rules
+- Expand mobile-friendly POD upload feature to vendor network
+- Enable auto-reconciliation alerts to reduce manual checks
+
+#### 🧠 Summary
+This update demonstrates consistent improvement in rollout completion, support responsiveness, and client satisfaction. The next phase focuses on automation and network intelligence to elevate ADM Agro's logistics execution efficiency across all supply chain nodes.
+
 ## 🛠️ Skills
 
 - **Project Management** | Solution Design & Implementation | CRM & Support Operations
